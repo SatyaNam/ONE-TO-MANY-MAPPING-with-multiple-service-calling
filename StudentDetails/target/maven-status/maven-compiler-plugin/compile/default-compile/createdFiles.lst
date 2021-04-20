@@ -1,0 +1,8 @@
+com\quest\springboot\student\controller\StudentDetailsController.class
+com\quest\springboot\student\dto\StudentDetailsDto.class
+com\quest\springboot\student\entity\AddressDetailsEntity.class
+com\quest\springboot\student\StudentDetailsApplication.class
+com\quest\springboot\student\repository\AddressDetailsRepository.class
+com\quest\springboot\student\service\StudentDetailsService.class
+com\quest\springboot\student\entity\StudentDetailsEntity.class
+com\quest\springboot\student\repository\StudentDetailsRepository.class

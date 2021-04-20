@@ -1,0 +1,5 @@
+com\quest\springboot\offer\repository\OfferDetailsRepository.class
+com\quest\springboot\offer\entity\OfferDetailsEntity.class
+com\quest\springboot\offer\controller\OfferDetailsController.class
+com\quest\springboot\offer\OfferDetailsApplication.class
+com\quest\springboot\offer\service\OfferDetailsService.class
